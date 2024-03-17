@@ -1,0 +1,16 @@
+C:\Users\lucass\source\repos\ShowMyIP\ShowMyIP\bin\Debug\net6.0-windows\ShowMyIP.exe
+C:\Users\lucass\source\repos\ShowMyIP\ShowMyIP\bin\Debug\net6.0-windows\ShowMyIP.deps.json
+C:\Users\lucass\source\repos\ShowMyIP\ShowMyIP\bin\Debug\net6.0-windows\ShowMyIP.runtimeconfig.json
+C:\Users\lucass\source\repos\ShowMyIP\ShowMyIP\bin\Debug\net6.0-windows\ShowMyIP.dll
+C:\Users\lucass\source\repos\ShowMyIP\ShowMyIP\bin\Debug\net6.0-windows\ShowMyIP.pdb
+C:\Users\lucass\source\repos\ShowMyIP\ShowMyIP\obj\Debug\net6.0-windows\ShowMyIP.formShowMyIP.resources
+C:\Users\lucass\source\repos\ShowMyIP\ShowMyIP\obj\Debug\net6.0-windows\ShowMyIP.csproj.GenerateResource.cache
+C:\Users\lucass\source\repos\ShowMyIP\ShowMyIP\obj\Debug\net6.0-windows\ShowMyIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucass\source\repos\ShowMyIP\ShowMyIP\obj\Debug\net6.0-windows\ShowMyIP.AssemblyInfoInputs.cache
+C:\Users\lucass\source\repos\ShowMyIP\ShowMyIP\obj\Debug\net6.0-windows\ShowMyIP.AssemblyInfo.cs
+C:\Users\lucass\source\repos\ShowMyIP\ShowMyIP\obj\Debug\net6.0-windows\ShowMyIP.csproj.CoreCompileInputs.cache
+C:\Users\lucass\source\repos\ShowMyIP\ShowMyIP\obj\Debug\net6.0-windows\ShowMyIP.dll
+C:\Users\lucass\source\repos\ShowMyIP\ShowMyIP\obj\Debug\net6.0-windows\refint\ShowMyIP.dll
+C:\Users\lucass\source\repos\ShowMyIP\ShowMyIP\obj\Debug\net6.0-windows\ShowMyIP.pdb
+C:\Users\lucass\source\repos\ShowMyIP\ShowMyIP\obj\Debug\net6.0-windows\ShowMyIP.genruntimeconfig.cache
+C:\Users\lucass\source\repos\ShowMyIP\ShowMyIP\obj\Debug\net6.0-windows\ref\ShowMyIP.dll
